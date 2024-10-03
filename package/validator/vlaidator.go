@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/google/uuid"
+	"github.com/mehrab-karimpour/golidation/package/validator/lang"
 	"image"
 	"net"
 	"net/url"
@@ -14,7 +15,6 @@ import (
 	"strings"
 	"time"
 	"unicode"
-	"validatoraga/validator/lang"
 )
 
 const (
