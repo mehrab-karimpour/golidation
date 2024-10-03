@@ -1,5 +1,10 @@
 package lang
 
+import (
+	"github.com/mehrab-karimpour/golidation/package/validator/lang/en"
+	"github.com/mehrab-karimpour/golidation/package/validator/lang/fa"
+)
+
 const (
 	En = "en"
 	Fa = "fa"
