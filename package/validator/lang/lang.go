@@ -1,10 +1,5 @@
 package lang
 
-import (
-	"validatoraga/validator/lang/en"
-	"validatoraga/validator/lang/fa"
-)
-
 const (
 	En = "en"
 	Fa = "fa"
